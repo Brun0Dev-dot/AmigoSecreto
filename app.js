@@ -73,7 +73,7 @@ function gerarIndiceAleatorio(max) {
     }
     else {
         listaDeIndicesSorteados.push(indiceEscolhido);
-        console.log(listaDeIndicesSorteados);
+        //console.log(listaDeIndicesSorteados);
         return indiceEscolhido;
     }
 
