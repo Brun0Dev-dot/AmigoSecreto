@@ -1,0 +1,6 @@
+# ignorar tudo
+*
+
+# Exceções para o projeto
+!.vscode/
+!src/
